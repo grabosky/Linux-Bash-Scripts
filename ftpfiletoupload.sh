@@ -1,7 +1,7 @@
 #!/bin/bash
 #Adam Grabowski
 #2019-05-01
-#Bash to script to automate copying file from local disk to remote FTP server and then renaming the file to cam.jpg using ncftp
+#Bash script to automate copying file from local disk to remote FTP server and then renaming the file to cam.jpg using ncftp
 #You need to have ncftp package installed#
 #Can be used for running in specific intervals using crontab
 #It was scripted to work as file ftp upload script in addition to another .sh script which takes a snapshot from RaspberryPi camera seconds before and renames the file to DATE Value (with the same minute)
