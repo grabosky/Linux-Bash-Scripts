@@ -1,6 +1,7 @@
 #!/bin/bash
 #Script for opening a SOCKS5 tunnel
-#Automates opening of local port (8125) and starts listening for tunnel connection, then prints current SSH processes (to verify it is working)
+#Automates opening of local port (8125) and starts listening for tunnel connection, then prints current SSH processes 
+#(to verify it is working)
 #Adam Grabowski
 #2019-06-01
 
