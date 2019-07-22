@@ -27,3 +27,4 @@ ncftpls -u user -p password -W "RNFR /public_html/camera/$DATE.jpg" -W "RNTO /pu
 
 
 
+
