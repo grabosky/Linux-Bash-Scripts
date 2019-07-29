@@ -23,5 +23,3 @@ sleep 1
 ncftpls -u user -p password -W "RNFR /public_html/camera/$DATE.jpg" -W "RNTO /public_html/camera/cam.jpg" ftp://ftp.address.com 
 
 
-
-
