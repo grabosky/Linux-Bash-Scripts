@@ -5,7 +5,7 @@
 #Adam Grabowski
 #2019-06-01
 
-#Open local ports 
+#Open local ports in ufw firewall
 if sudo ufw allow 8125 && sudo ufw allow 8125/tcp ; then
     echo "Port 8125 SUCCESSFULLY opened on server side."
 else
