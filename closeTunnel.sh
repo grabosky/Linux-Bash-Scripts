@@ -1,6 +1,6 @@
 #!/bin/bash
 #Script for closing a SOCKS5 tunnel
-#Automates closing of local port (8125) in ufw firewall, then prints current SSH process ID
+#Automates closing of local port (8125) in ufw firewall, then prints current SSH process ID (you still need to kill it manually though)
 #Adam Grabowski
 #2019-06-01
 
