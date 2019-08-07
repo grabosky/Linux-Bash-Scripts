@@ -10,4 +10,4 @@ else
     echo "Port 8125 FAILED to CLOSE on server side."
 fi
 ps aux |grep ssh
-echo "Find PID of the Tunnel process - it is after login name - and type sudo kill number"
+echo "Find PID of the Tunnel process and type sudo kill number"
