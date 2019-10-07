@@ -12,3 +12,5 @@
     echo "$(date "+%Y-%m-%d-%H_%M_%S") : Done"
 
 } 2>&1 | tee errors.log
+
+
