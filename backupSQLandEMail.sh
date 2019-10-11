@@ -1,6 +1,8 @@
 #!/bin/bash
 #Backups mysql dump + sends it by e-mail
 #Requirement: mutt installed
+#Author: Adam Grabowski 
+#Date: 2019-10-7
 
 {
     _now=$(date +"%Y-%m-%d-%H_%M_%S")
