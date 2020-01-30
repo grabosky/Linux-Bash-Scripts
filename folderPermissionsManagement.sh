@@ -1,6 +1,7 @@
 #!/bin/bash
-
-#Script to create New User, Group, both or ACL on a specific folder
+#Description: Script to create New User, Group, both or set ACL on a specific folder
+#Author: Adam Grabowski
+#Date: 2020-01-30
 
 {
 
